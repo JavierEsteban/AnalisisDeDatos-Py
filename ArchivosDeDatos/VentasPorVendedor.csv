@@ -1,0 +1,466 @@
+Reporte Regional de Ventas;;;;;;
+;;;;;;
+Período desde;01/01/2016;;;;;
+Período hasta;31/01/2016;;;;;
+;;;;;;
+Fecha;Vendedor;Región;Artículo;Categoría;Unidades;Ganancia
+01/01/2016;Steve Ashton;Norte;Medias Femeninas;Vestimenta;6; $ 18,00 
+01/01/2016;Trevor Snodgrass;Oeste;Chocolate;Comestibles;8; $ 3,84 
+01/01/2016;Sarah Bond;Sur;Gorras;Vestimenta;3; $ 6,30 
+01/01/2016;Desmond Delaney;Sur;Sánguche de Queso;Comestibles;9; $ 14,40 
+01/01/2016;Desmond Delaney;Este;Chocolate;Comestibles;14; $ 6,72 
+01/01/2016;Trevor Snodgrass;Este;Cerveza;Comestibles;15; $ 6,00 
+01/01/2016;Boris Stanford;Norte;Pepinillo;Comestibles;14; $ 4,20 
+01/01/2016;Steve Ashton;Oeste;Gorras;Vestimenta;2; $ 4,20 
+01/01/2016;Trevor Snodgrass;Este;Pan;Comestibles;12; $ 4,80 
+01/01/2016;Sarah Bond;Este;Caramelos;Comestibles;15; $ 9,00 
+01/01/2016;Trevor Snodgrass;Sur;Pan;Comestibles;6; $ 2,40 
+01/01/2016;Boris Stanford;Oeste;Calcetines;Vestimenta;7; $ 15,75 
+01/01/2016;Trevor Snodgrass;Sur;Shorts;Vestimenta;6; $ 29,40 
+02/01/2016;Steve Ashton;Este;Detergente;Hogar;7; $ 17,36 
+02/01/2016;Boris Stanford;Norte;Sánguche de Queso;Comestibles;8; $ 12,80 
+02/01/2016;Desmond Delaney;Oeste;Pepinillo;Comestibles;5; $ 1,50 
+02/01/2016;Dustin Gee;Norte;Sandalias;Vestimenta;7; $ 73,50 
+02/01/2016;Trevor Snodgrass;Este;Pan;Comestibles;5; $ 2,00 
+02/01/2016;Steve Ashton;Este;Cerveza;Comestibles;1; $ 0,40 
+02/01/2016;Trevor Snodgrass;Sur;Escoba;Hogar;11; $ 40,15 
+02/01/2016;Boris Stanford;Este;Calcetines;Vestimenta;12; $ 27,00 
+02/01/2016;Boris Stanford;Oeste;Bufanda;Vestimenta;14; $ 38,50 
+02/01/2016;Boris Stanford;Oeste;Sánguche de Queso;Comestibles;2; $ 3,20 
+02/01/2016;Sarah Bond;Norte;Bufanda;Vestimenta;4; $ 11,00 
+02/01/2016;Steve Ashton;Norte;Sánguche de Queso;Comestibles;10; $ 16,00 
+02/01/2016;Boris Stanford;Este;Pan;Comestibles;4; $ 1,60 
+02/01/2016;Steve Ashton;Sur;Bufanda;Vestimenta;12; $ 33,00 
+02/01/2016;Sarah Bond;Este;Escoba;Hogar;12; $ 43,80 
+03/01/2016;Desmond Delaney;Este;Medias Femeninas;Vestimenta;7; $ 21,00 
+03/01/2016;Boris Stanford;Sur;Shorts;Vestimenta;5; $ 24,50 
+03/01/2016;Dustin Gee;Oeste;Lejía;Hogar;11; $ 34,10 
+03/01/2016;Dustin Gee;Este;Escoba;Hogar;14; $ 51,10 
+03/01/2016;Desmond Delaney;Este;Trapo Piso;Hogar;7; $ 3,92 
+03/01/2016;Desmond Delaney;Este;Detergente;Hogar;6; $ 14,88 
+03/01/2016;Desmond Delaney;Oeste;Medias Femeninas;Vestimenta;6; $ 18,00 
+03/01/2016;Dustin Gee;Norte;Medias Femeninas;Vestimenta;6; $ 18,00 
+03/01/2016;Boris Stanford;Este;Shorts;Vestimenta;7; $ 34,30 
+04/01/2016;Trevor Snodgrass;Sur;Lejía;Hogar;7; $ 21,70 
+04/01/2016;Steve Ashton;Oeste;Gorras;Vestimenta;13; $ 27,30 
+04/01/2016;Dustin Gee;Sur;Sudadera;Vestimenta;3; $ 18,00 
+04/01/2016;Dustin Gee;Este;Bufanda;Vestimenta;12; $ 33,00 
+04/01/2016;Steve Ashton;Norte;Pan;Comestibles;15; $ 6,00 
+04/01/2016;Sarah Bond;Sur;Detergente;Hogar;11; $ 27,28 
+04/01/2016;Boris Stanford;Este;Sandalias;Vestimenta;9; $ 94,50 
+04/01/2016;Dustin Gee;Sur;Soda;Comestibles;3; $ 1,92 
+04/01/2016;Dustin Gee;Sur;Soda;Comestibles;14; $ 8,96 
+04/01/2016;Trevor Snodgrass;Norte;Escoba;Hogar;2; $ 7,30 
+04/01/2016;Dustin Gee;Sur;Caramelos;Comestibles;12; $ 7,20 
+04/01/2016;Sarah Bond;Este;Shorts;Vestimenta;2; $ 9,80 
+04/01/2016;Sarah Bond;Norte;Shorts;Vestimenta;12; $ 58,80 
+04/01/2016;Boris Stanford;Este;Shorts;Vestimenta;5; $ 24,50 
+04/01/2016;Dustin Gee;Este;Escoba;Hogar;13; $ 47,45 
+04/01/2016;Boris Stanford;Sur;Sandalias;Vestimenta;4; $ 42,00 
+04/01/2016;Boris Stanford;Norte;Calcetines;Vestimenta;6; $ 13,50 
+04/01/2016;Trevor Snodgrass;Este;Detergente;Hogar;14; $ 34,72 
+04/01/2016;Sarah Bond;Sur;Escoba;Hogar;5; $ 18,25 
+04/01/2016;Desmond Delaney;Sur;Pepinillo;Comestibles;6; $ 1,80 
+04/01/2016;Dustin Gee;Este;Gorras;Vestimenta;2; $ 4,20 
+04/01/2016;Sarah Bond;Este;Bufanda;Vestimenta;14; $ 38,50 
+04/01/2016;Desmond Delaney;Este;Pepinillo;Comestibles;8; $ 2,40 
+04/01/2016;Sarah Bond;Este;Escobillón;Hogar;3; $ 2,55 
+05/01/2016;Steve Ashton;Sur;Pepinillo;Comestibles;15; $ 4,50 
+05/01/2016;Sarah Bond;Norte;Cerveza;Comestibles;3; $ 1,20 
+05/01/2016;Trevor Snodgrass;Oeste;Cerveza;Comestibles;10; $ 4,00 
+05/01/2016;Boris Stanford;Sur;Pan;Comestibles;4; $ 1,60 
+05/01/2016;Sarah Bond;Norte;Pan;Comestibles;3; $ 1,20 
+05/01/2016;Boris Stanford;Este;Escobillón;Hogar;8; $ 6,80 
+05/01/2016;Sarah Bond;Este;Limpiavidrios;Hogar;5; $ 4,00 
+05/01/2016;Dustin Gee;Oeste;Trapo Piso;Hogar;12; $ 6,72 
+05/01/2016;Trevor Snodgrass;Norte;Calcetines;Vestimenta;4; $ 9,00 
+05/01/2016;Trevor Snodgrass;Este;Bufanda;Vestimenta;3; $ 8,25 
+05/01/2016;Boris Stanford;Sur;Shorts;Vestimenta;1; $ 4,90 
+05/01/2016;Steve Ashton;Norte;Shorts;Vestimenta;11; $ 53,90 
+05/01/2016;Desmond Delaney;Norte;Bombilla;Hogar;15; $ 9,00 
+05/01/2016;Dustin Gee;Oeste;Lejía;Hogar;9; $ 27,90 
+05/01/2016;Desmond Delaney;Sur;Lejía;Hogar;6; $ 18,60 
+05/01/2016;Desmond Delaney;Este;Pan;Comestibles;8; $ 3,20 
+05/01/2016;Desmond Delaney;Norte;Medias Femeninas;Vestimenta;13; $ 39,00 
+05/01/2016;Dustin Gee;Norte;Escoba;Hogar;5; $ 18,25 
+05/01/2016;Desmond Delaney;Oeste;Soda;Comestibles;5; $ 3,20 
+06/01/2016;Steve Ashton;Sur;Sánguche de Queso;Comestibles;13; $ 20,80 
+06/01/2016;Desmond Delaney;Sur;Sandalias;Vestimenta;15; $ 157,50 
+06/01/2016;Desmond Delaney;Sur;Sandalias;Vestimenta;15; $ 157,50 
+06/01/2016;Desmond Delaney;Norte;Sandalias;Vestimenta;10; $ 105,00 
+06/01/2016;Dustin Gee;Este;Chocolate;Comestibles;12; $ 5,76 
+06/01/2016;Sarah Bond;Norte;Gorras;Vestimenta;9; $ 18,90 
+06/01/2016;Steve Ashton;Sur;Bufanda;Vestimenta;1; $ 2,75 
+06/01/2016;Boris Stanford;Oeste;Sudadera;Vestimenta;2; $ 12,00 
+06/01/2016;Desmond Delaney;Sur;Escoba;Hogar;8; $ 29,20 
+06/01/2016;Sarah Bond;Sur;Cerveza;Comestibles;15; $ 6,00 
+06/01/2016;Boris Stanford;Norte;Calcetines;Vestimenta;11; $ 24,75 
+06/01/2016;Desmond Delaney;Este;Bombilla;Hogar;7; $ 4,20 
+06/01/2016;Dustin Gee;Oeste;Medias Femeninas;Vestimenta;15; $ 45,00 
+06/01/2016;Boris Stanford;Norte;Chocolate;Comestibles;2; $ 0,96 
+06/01/2016;Boris Stanford;Oeste;Pan;Comestibles;8; $ 3,20 
+06/01/2016;Trevor Snodgrass;Norte;Limpiavidrios;Hogar;2; $ 1,60 
+06/01/2016;Desmond Delaney;Norte;Sudadera;Vestimenta;1; $ 6,00 
+06/01/2016;Steve Ashton;Sur;Sandalias;Vestimenta;4; $ 42,00 
+06/01/2016;Trevor Snodgrass;Este;Pan;Comestibles;2; $ 0,80 
+06/01/2016;Dustin Gee;Sur;Limpiavidrios;Hogar;14; $ 11,20 
+07/01/2016;Sarah Bond;Norte;Detergente;Hogar;6; $ 14,88 
+07/01/2016;Steve Ashton;Oeste;Escoba;Hogar;13; $ 47,45 
+07/01/2016;Boris Stanford;Sur;Escoba;Hogar;5; $ 18,25 
+07/01/2016;Dustin Gee;Sur;Shorts;Vestimenta;9; $ 44,10 
+07/01/2016;Sarah Bond;Este;Calcetines;Vestimenta;13; $ 29,25 
+07/01/2016;Dustin Gee;Sur;Chocolate;Comestibles;9; $ 4,32 
+07/01/2016;Sarah Bond;Oeste;Calcetines;Vestimenta;8; $ 18,00 
+07/01/2016;Steve Ashton;Norte;Escobillón;Hogar;14; $ 11,90 
+07/01/2016;Sarah Bond;Norte;Pan;Comestibles;4; $ 1,60 
+07/01/2016;Trevor Snodgrass;Norte;Pan;Comestibles;12; $ 4,80 
+07/01/2016;Steve Ashton;Norte;Bombilla;Hogar;3; $ 1,80 
+07/01/2016;Dustin Gee;Norte;Detergente;Hogar;4; $ 9,92 
+07/01/2016;Desmond Delaney;Norte;Pan;Comestibles;6; $ 2,40 
+08/01/2016;Desmond Delaney;Este;Caramelos;Comestibles;3; $ 1,80 
+08/01/2016;Sarah Bond;Oeste;Trapo Piso;Hogar;9; $ 5,04 
+08/01/2016;Steve Ashton;Este;Chocolate;Comestibles;10; $ 4,80 
+08/01/2016;Desmond Delaney;Sur;Bufanda;Vestimenta;10; $ 27,50 
+08/01/2016;Trevor Snodgrass;Oeste;Pepinillo;Comestibles;5; $ 1,50 
+08/01/2016;Dustin Gee;Norte;Bufanda;Vestimenta;15; $ 41,25 
+08/01/2016;Trevor Snodgrass;Este;Bombilla;Hogar;5; $ 3,00 
+08/01/2016;Boris Stanford;Sur;Calcetines;Vestimenta;6; $ 13,50 
+08/01/2016;Steve Ashton;Oeste;Pan;Comestibles;12; $ 4,80 
+08/01/2016;Desmond Delaney;Sur;Soda;Comestibles;5; $ 3,20 
+08/01/2016;Sarah Bond;Sur;Bufanda;Vestimenta;4; $ 11,00 
+08/01/2016;Sarah Bond;Sur;Sandalias;Vestimenta;15; $ 157,50 
+08/01/2016;Steve Ashton;Norte;Calcetines;Vestimenta;8; $ 18,00 
+08/01/2016;Sarah Bond;Norte;Calcetines;Vestimenta;3; $ 6,75 
+08/01/2016;Sarah Bond;Norte;Sánguche de Queso;Comestibles;14; $ 22,40 
+08/01/2016;Desmond Delaney;Este;Detergente;Hogar;15; $ 37,20 
+08/01/2016;Desmond Delaney;Norte;Medias Femeninas;Vestimenta;12; $ 36,00 
+08/01/2016;Boris Stanford;Este;Medias Femeninas;Vestimenta;2; $ 6,00 
+09/01/2016;Dustin Gee;Oeste;Detergente;Hogar;8; $ 19,84 
+09/01/2016;Desmond Delaney;Este;Escoba;Hogar;6; $ 21,90 
+09/01/2016;Steve Ashton;Este;Soda;Comestibles;7; $ 4,48 
+09/01/2016;Sarah Bond;Oeste;Pepinillo;Comestibles;2; $ 0,60 
+09/01/2016;Sarah Bond;Norte;Bombilla;Hogar;6; $ 3,60 
+09/01/2016;Sarah Bond;Sur;Soda;Comestibles;11; $ 7,04 
+09/01/2016;Sarah Bond;Este;Bufanda;Vestimenta;3; $ 8,25 
+09/01/2016;Boris Stanford;Sur;Sánguche de Queso;Comestibles;10; $ 16,00 
+09/01/2016;Desmond Delaney;Sur;Medias Femeninas;Vestimenta;12; $ 36,00 
+09/01/2016;Steve Ashton;Este;Calcetines;Vestimenta;15; $ 33,75 
+09/01/2016;Sarah Bond;Este;Limpiavidrios;Hogar;13; $ 10,40 
+10/01/2016;Trevor Snodgrass;Oeste;Detergente;Hogar;10; $ 24,80 
+10/01/2016;Trevor Snodgrass;Oeste;Sánguche de Queso;Comestibles;5; $ 8,00 
+10/01/2016;Steve Ashton;Sur;Chocolate;Comestibles;12; $ 5,76 
+10/01/2016;Trevor Snodgrass;Oeste;Escoba;Hogar;12; $ 43,80 
+10/01/2016;Sarah Bond;Norte;Escobillón;Hogar;1; $ 0,85 
+10/01/2016;Sarah Bond;Este;Medias Femeninas;Vestimenta;4; $ 12,00 
+10/01/2016;Trevor Snodgrass;Sur;Limpiavidrios;Hogar;9; $ 7,20 
+10/01/2016;Trevor Snodgrass;Este;Escobillón;Hogar;15; $ 12,75 
+10/01/2016;Dustin Gee;Oeste;Escoba;Hogar;7; $ 25,55 
+10/01/2016;Sarah Bond;Este;Limpiavidrios;Hogar;15; $ 12,00 
+10/01/2016;Desmond Delaney;Este;Lejía;Hogar;8; $ 24,80 
+10/01/2016;Steve Ashton;Sur;Lejía;Hogar;10; $ 31,00 
+10/01/2016;Desmond Delaney;Norte;Sánguche de Queso;Comestibles;7; $ 11,20 
+10/01/2016;Boris Stanford;Oeste;Bufanda;Vestimenta;14; $ 38,50 
+10/01/2016;Trevor Snodgrass;Norte;Gorras;Vestimenta;7; $ 14,70 
+10/01/2016;Steve Ashton;Oeste;Escobillón;Hogar;15; $ 12,75 
+11/01/2016;Trevor Snodgrass;Oeste;Sudadera;Vestimenta;13; $ 78,00 
+11/01/2016;Steve Ashton;Norte;Gorras;Vestimenta;2; $ 4,20 
+11/01/2016;Desmond Delaney;Norte;Limpiavidrios;Hogar;5; $ 4,00 
+11/01/2016;Trevor Snodgrass;Oeste;Limpiavidrios;Hogar;10; $ 8,00 
+11/01/2016;Boris Stanford;Este;Medias Femeninas;Vestimenta;5; $ 15,00 
+11/01/2016;Dustin Gee;Sur;Soda;Comestibles;4; $ 2,56 
+11/01/2016;Steve Ashton;Este;Chocolate;Comestibles;10; $ 4,80 
+11/01/2016;Steve Ashton;Sur;Sánguche de Queso;Comestibles;6; $ 9,60 
+11/01/2016;Steve Ashton;Sur;Detergente;Hogar;6; $ 14,88 
+11/01/2016;Desmond Delaney;Sur;Escobillón;Hogar;2; $ 1,70 
+11/01/2016;Steve Ashton;Oeste;Sudadera;Vestimenta;10; $ 60,00 
+11/01/2016;Trevor Snodgrass;Este;Pan;Comestibles;7; $ 2,80 
+11/01/2016;Sarah Bond;Este;Gorras;Vestimenta;9; $ 18,90 
+11/01/2016;Steve Ashton;Oeste;Pan;Comestibles;10; $ 4,00 
+11/01/2016;Desmond Delaney;Este;Lejía;Hogar;3; $ 9,30 
+11/01/2016;Boris Stanford;Sur;Caramelos;Comestibles;5; $ 3,00 
+11/01/2016;Desmond Delaney;Sur;Lejía;Hogar;1; $ 3,10 
+11/01/2016;Desmond Delaney;Norte;Limpiavidrios;Hogar;13; $ 10,40 
+11/01/2016;Trevor Snodgrass;Sur;Chocolate;Comestibles;9; $ 4,32 
+12/01/2016;Desmond Delaney;Oeste;Medias Femeninas;Vestimenta;7; $ 21,00 
+12/01/2016;Dustin Gee;Oeste;Escobillón;Hogar;8; $ 6,80 
+12/01/2016;Steve Ashton;Sur;Sánguche de Queso;Comestibles;9; $ 14,40 
+12/01/2016;Trevor Snodgrass;Sur;Pepinillo;Comestibles;12; $ 3,60 
+12/01/2016;Dustin Gee;Sur;Escobillón;Hogar;9; $ 7,65 
+12/01/2016;Sarah Bond;Norte;Escobillón;Hogar;2; $ 1,70 
+12/01/2016;Steve Ashton;Sur;Escoba;Hogar;7; $ 25,55 
+12/01/2016;Dustin Gee;Sur;Limpiavidrios;Hogar;5; $ 4,00 
+12/01/2016;Steve Ashton;Norte;Bombilla;Hogar;13; $ 7,80 
+12/01/2016;Sarah Bond;Este;Gorras;Vestimenta;11; $ 23,10 
+12/01/2016;Dustin Gee;Sur;Gorras;Vestimenta;13; $ 27,30 
+13/01/2016;Sarah Bond;Oeste;Calcetines;Vestimenta;1; $ 2,25 
+13/01/2016;Desmond Delaney;Oeste;Sánguche de Queso;Comestibles;12; $ 19,20 
+13/01/2016;Dustin Gee;Sur;Bufanda;Vestimenta;4; $ 11,00 
+13/01/2016;Dustin Gee;Oeste;Pepinillo;Comestibles;14; $ 4,20 
+13/01/2016;Boris Stanford;Norte;Escoba;Hogar;8; $ 29,20 
+13/01/2016;Steve Ashton;Este;Detergente;Hogar;9; $ 22,32 
+13/01/2016;Steve Ashton;Oeste;Pan;Comestibles;10; $ 4,00 
+13/01/2016;Steve Ashton;Sur;Escoba;Hogar;1; $ 3,65 
+13/01/2016;Dustin Gee;Norte;Soda;Comestibles;13; $ 8,32 
+13/01/2016;Sarah Bond;Oeste;Detergente;Hogar;5; $ 12,40 
+13/01/2016;Boris Stanford;Sur;Escoba;Hogar;1; $ 3,65 
+13/01/2016;Sarah Bond;Norte;Cerveza;Comestibles;11; $ 4,40 
+14/01/2016;Desmond Delaney;Oeste;Calcetines;Vestimenta;6; $ 13,50 
+14/01/2016;Desmond Delaney;Norte;Gorras;Vestimenta;5; $ 10,50 
+14/01/2016;Sarah Bond;Sur;Pan;Comestibles;6; $ 2,40 
+14/01/2016;Trevor Snodgrass;Este;Sudadera;Vestimenta;8; $ 48,00 
+14/01/2016;Trevor Snodgrass;Sur;Trapo Piso;Hogar;5; $ 2,80 
+14/01/2016;Dustin Gee;Este;Medias Femeninas;Vestimenta;14; $ 42,00 
+14/01/2016;Trevor Snodgrass;Oeste;Lejía;Hogar;15; $ 46,50 
+14/01/2016;Desmond Delaney;Este;Trapo Piso;Hogar;8; $ 4,48 
+14/01/2016;Desmond Delaney;Este;Bombilla;Hogar;10; $ 6,00 
+14/01/2016;Trevor Snodgrass;Este;Sánguche de Queso;Comestibles;15; $ 24,00 
+14/01/2016;Steve Ashton;Oeste;Cerveza;Comestibles;12; $ 4,80 
+14/01/2016;Sarah Bond;Este;Escoba;Hogar;5; $ 18,25 
+14/01/2016;Trevor Snodgrass;Oeste;Sánguche de Queso;Comestibles;2; $ 3,20 
+14/01/2016;Sarah Bond;Este;Shorts;Vestimenta;9; $ 44,10 
+14/01/2016;Boris Stanford;Este;Bombilla;Hogar;9; $ 5,40 
+15/01/2016;Sarah Bond;Oeste;Chocolate;Comestibles;6; $ 2,88 
+15/01/2016;Sarah Bond;Sur;Pan;Comestibles;7; $ 2,80 
+15/01/2016;Sarah Bond;Sur;Sudadera;Vestimenta;1; $ 6,00 
+15/01/2016;Dustin Gee;Norte;Sudadera;Vestimenta;14; $ 84,00 
+15/01/2016;Steve Ashton;Oeste;Calcetines;Vestimenta;10; $ 22,50 
+15/01/2016;Boris Stanford;Sur;Medias Femeninas;Vestimenta;12; $ 36,00 
+15/01/2016;Trevor Snodgrass;Este;Detergente;Hogar;1; $ 2,48 
+15/01/2016;Sarah Bond;Norte;Chocolate;Comestibles;12; $ 5,76 
+15/01/2016;Desmond Delaney;Este;Escobillón;Hogar;14; $ 11,90 
+15/01/2016;Boris Stanford;Norte;Trapo Piso;Hogar;4; $ 2,24 
+15/01/2016;Trevor Snodgrass;Este;Sudadera;Vestimenta;12; $ 72,00 
+15/01/2016;Dustin Gee;Sur;Escobillón;Hogar;7; $ 5,95 
+15/01/2016;Boris Stanford;Oeste;Sánguche de Queso;Comestibles;2; $ 3,20 
+15/01/2016;Sarah Bond;Este;Detergente;Hogar;2; $ 4,96 
+15/01/2016;Trevor Snodgrass;Este;Chocolate;Comestibles;9; $ 4,32 
+15/01/2016;Sarah Bond;Sur;Chocolate;Comestibles;4; $ 1,92 
+15/01/2016;Trevor Snodgrass;Este;Gorras;Vestimenta;4; $ 8,40 
+15/01/2016;Boris Stanford;Este;Bombilla;Hogar;6; $ 3,60 
+16/01/2016;Steve Ashton;Sur;Detergente;Hogar;3; $ 7,44 
+16/01/2016;Steve Ashton;Oeste;Calcetines;Vestimenta;13; $ 29,25 
+16/01/2016;Steve Ashton;Norte;Chocolate;Comestibles;7; $ 3,36 
+16/01/2016;Desmond Delaney;Este;Chocolate;Comestibles;8; $ 3,84 
+16/01/2016;Trevor Snodgrass;Oeste;Calcetines;Vestimenta;1; $ 2,25 
+16/01/2016;Trevor Snodgrass;Sur;Shorts;Vestimenta;2; $ 9,80 
+16/01/2016;Trevor Snodgrass;Este;Detergente;Hogar;2; $ 4,96 
+16/01/2016;Desmond Delaney;Este;Bombilla;Hogar;4; $ 2,40 
+16/01/2016;Boris Stanford;Oeste;Bufanda;Vestimenta;5; $ 13,75 
+16/01/2016;Sarah Bond;Norte;Detergente;Hogar;9; $ 22,32 
+16/01/2016;Steve Ashton;Este;Escoba;Hogar;5; $ 18,25 
+16/01/2016;Dustin Gee;Este;Pepinillo;Comestibles;15; $ 4,50 
+16/01/2016;Dustin Gee;Este;Shorts;Vestimenta;5; $ 24,50 
+16/01/2016;Steve Ashton;Sur;Sudadera;Vestimenta;4; $ 24,00 
+16/01/2016;Steve Ashton;Sur;Trapo Piso;Hogar;1; $ 0,56 
+16/01/2016;Trevor Snodgrass;Oeste;Cerveza;Comestibles;1; $ 0,40 
+16/01/2016;Desmond Delaney;Norte;Chocolate;Comestibles;4; $ 1,92 
+16/01/2016;Boris Stanford;Norte;Caramelos;Comestibles;7; $ 4,20 
+17/01/2016;Trevor Snodgrass;Norte;Lejía;Hogar;10; $ 31,00 
+17/01/2016;Sarah Bond;Sur;Soda;Comestibles;10; $ 6,40 
+17/01/2016;Steve Ashton;Norte;Caramelos;Comestibles;2; $ 1,20 
+17/01/2016;Desmond Delaney;Sur;Cerveza;Comestibles;4; $ 1,60 
+17/01/2016;Sarah Bond;Norte;Medias Femeninas;Vestimenta;12; $ 36,00 
+17/01/2016;Desmond Delaney;Este;Sánguche de Queso;Comestibles;3; $ 4,80 
+17/01/2016;Desmond Delaney;Este;Bufanda;Vestimenta;10; $ 27,50 
+17/01/2016;Desmond Delaney;Este;Caramelos;Comestibles;10; $ 6,00 
+18/01/2016;Boris Stanford;Sur;Pepinillo;Comestibles;5; $ 1,50 
+18/01/2016;Desmond Delaney;Norte;Soda;Comestibles;6; $ 3,84 
+18/01/2016;Desmond Delaney;Este;Escoba;Hogar;10; $ 36,50 
+18/01/2016;Sarah Bond;Oeste;Trapo Piso;Hogar;13; $ 7,28 
+18/01/2016;Dustin Gee;Norte;Sudadera;Vestimenta;4; $ 24,00 
+18/01/2016;Desmond Delaney;Norte;Detergente;Hogar;14; $ 34,72 
+18/01/2016;Steve Ashton;Norte;Bufanda;Vestimenta;11; $ 30,25 
+18/01/2016;Steve Ashton;Oeste;Soda;Comestibles;4; $ 2,56 
+18/01/2016;Sarah Bond;Sur;Escobillón;Hogar;6; $ 5,10 
+18/01/2016;Sarah Bond;Sur;Pan;Comestibles;12; $ 4,80 
+18/01/2016;Boris Stanford;Sur;Escobillón;Hogar;9; $ 7,65 
+18/01/2016;Sarah Bond;Norte;Chocolate;Comestibles;5; $ 2,40 
+19/01/2016;Steve Ashton;Sur;Chocolate;Comestibles;8; $ 3,84 
+19/01/2016;Desmond Delaney;Sur;Lejía;Hogar;1; $ 3,10 
+19/01/2016;Sarah Bond;Norte;Escoba;Hogar;14; $ 51,10 
+19/01/2016;Desmond Delaney;Este;Escobillón;Hogar;2; $ 1,70 
+19/01/2016;Trevor Snodgrass;Oeste;Escoba;Hogar;5; $ 18,25 
+19/01/2016;Boris Stanford;Sur;Escobillón;Hogar;14; $ 11,90 
+19/01/2016;Sarah Bond;Sur;Pan;Comestibles;12; $ 4,80 
+19/01/2016;Dustin Gee;Este;Sudadera;Vestimenta;7; $ 42,00 
+19/01/2016;Steve Ashton;Este;Sánguche de Queso;Comestibles;3; $ 4,80 
+19/01/2016;Boris Stanford;Oeste;Lejía;Hogar;12; $ 37,20 
+19/01/2016;Steve Ashton;Oeste;Detergente;Hogar;12; $ 29,76 
+19/01/2016;Trevor Snodgrass;Norte;Sánguche de Queso;Comestibles;12; $ 19,20 
+19/01/2016;Sarah Bond;Este;Chocolate;Comestibles;8; $ 3,84 
+19/01/2016;Steve Ashton;Este;Pepinillo;Comestibles;12; $ 3,60 
+19/01/2016;Desmond Delaney;Sur;Cerveza;Comestibles;3; $ 1,20 
+19/01/2016;Trevor Snodgrass;Oeste;Caramelos;Comestibles;7; $ 4,20 
+19/01/2016;Sarah Bond;Oeste;Soda;Comestibles;13; $ 8,32 
+19/01/2016;Desmond Delaney;Este;Soda;Comestibles;3; $ 1,92 
+19/01/2016;Sarah Bond;Este;Sudadera;Vestimenta;1; $ 6,00 
+19/01/2016;Dustin Gee;Sur;Limpiavidrios;Hogar;2; $ 1,60 
+20/01/2016;Boris Stanford;Oeste;Shorts;Vestimenta;11; $ 53,90 
+20/01/2016;Sarah Bond;Norte;Lejía;Hogar;8; $ 24,80 
+20/01/2016;Steve Ashton;Oeste;Chocolate;Comestibles;12; $ 5,76 
+20/01/2016;Sarah Bond;Sur;Pepinillo;Comestibles;2; $ 0,60 
+20/01/2016;Steve Ashton;Norte;Caramelos;Comestibles;10; $ 6,00 
+20/01/2016;Steve Ashton;Oeste;Soda;Comestibles;9; $ 5,76 
+20/01/2016;Boris Stanford;Oeste;Pan;Comestibles;6; $ 2,40 
+20/01/2016;Boris Stanford;Sur;Pepinillo;Comestibles;9; $ 2,70 
+20/01/2016;Boris Stanford;Oeste;Sandalias;Vestimenta;9; $ 94,50 
+20/01/2016;Steve Ashton;Norte;Caramelos;Comestibles;3; $ 1,80 
+20/01/2016;Dustin Gee;Norte;Limpiavidrios;Hogar;3; $ 2,40 
+20/01/2016;Sarah Bond;Norte;Pepinillo;Comestibles;11; $ 3,30 
+20/01/2016;Sarah Bond;Norte;Caramelos;Comestibles;15; $ 9,00 
+20/01/2016;Desmond Delaney;Sur;Escoba;Hogar;13; $ 47,45 
+21/01/2016;Trevor Snodgrass;Este;Limpiavidrios;Hogar;13; $ 10,40 
+21/01/2016;Boris Stanford;Sur;Lejía;Hogar;15; $ 46,50 
+21/01/2016;Steve Ashton;Norte;Medias Femeninas;Vestimenta;9; $ 27,00 
+21/01/2016;Dustin Gee;Sur;Limpiavidrios;Hogar;10; $ 8,00 
+21/01/2016;Boris Stanford;Sur;Sudadera;Vestimenta;4; $ 24,00 
+21/01/2016;Steve Ashton;Norte;Sudadera;Vestimenta;8; $ 48,00 
+21/01/2016;Steve Ashton;Norte;Chocolate;Comestibles;2; $ 0,96 
+21/01/2016;Trevor Snodgrass;Oeste;Pepinillo;Comestibles;2; $ 0,60 
+21/01/2016;Desmond Delaney;Sur;Escoba;Hogar;6; $ 21,90 
+21/01/2016;Trevor Snodgrass;Oeste;Bombilla;Hogar;14; $ 8,40 
+21/01/2016;Dustin Gee;Norte;Bufanda;Vestimenta;7; $ 19,25 
+21/01/2016;Steve Ashton;Norte;Shorts;Vestimenta;5; $ 24,50 
+21/01/2016;Boris Stanford;Sur;Escobillón;Hogar;12; $ 10,20 
+21/01/2016;Sarah Bond;Norte;Calcetines;Vestimenta;5; $ 11,25 
+22/01/2016;Dustin Gee;Este;Gorras;Vestimenta;11; $ 23,10 
+22/01/2016;Boris Stanford;Este;Cerveza;Comestibles;8; $ 3,20 
+22/01/2016;Dustin Gee;Oeste;Lejía;Hogar;11; $ 34,10 
+22/01/2016;Steve Ashton;Sur;Calcetines;Vestimenta;10; $ 22,50 
+22/01/2016;Dustin Gee;Sur;Escoba;Hogar;8; $ 29,20 
+22/01/2016;Dustin Gee;Este;Soda;Comestibles;1; $ 0,64 
+22/01/2016;Boris Stanford;Sur;Sudadera;Vestimenta;5; $ 30,00 
+22/01/2016;Trevor Snodgrass;Sur;Caramelos;Comestibles;7; $ 4,20 
+22/01/2016;Desmond Delaney;Oeste;Escobillón;Hogar;7; $ 5,95 
+22/01/2016;Trevor Snodgrass;Oeste;Bombilla;Hogar;14; $ 8,40 
+22/01/2016;Dustin Gee;Sur;Pepinillo;Comestibles;14; $ 4,20 
+22/01/2016;Sarah Bond;Sur;Bombilla;Hogar;3; $ 1,80 
+22/01/2016;Sarah Bond;Oeste;Sandalias;Vestimenta;2; $ 21,00 
+23/01/2016;Steve Ashton;Sur;Medias Femeninas;Vestimenta;3; $ 9,00 
+23/01/2016;Boris Stanford;Oeste;Cerveza;Comestibles;15; $ 6,00 
+23/01/2016;Trevor Snodgrass;Norte;Soda;Comestibles;5; $ 3,20 
+23/01/2016;Dustin Gee;Oeste;Escobillón;Hogar;12; $ 10,20 
+23/01/2016;Steve Ashton;Este;Calcetines;Vestimenta;9; $ 20,25 
+23/01/2016;Sarah Bond;Este;Pepinillo;Comestibles;6; $ 1,80 
+23/01/2016;Steve Ashton;Sur;Cerveza;Comestibles;14; $ 5,60 
+23/01/2016;Desmond Delaney;Este;Soda;Comestibles;4; $ 2,56 
+23/01/2016;Sarah Bond;Este;Detergente;Hogar;8; $ 19,84 
+23/01/2016;Desmond Delaney;Este;Soda;Comestibles;11; $ 7,04 
+23/01/2016;Boris Stanford;Este;Escobillón;Hogar;8; $ 6,80 
+24/01/2016;Steve Ashton;Este;Pepinillo;Comestibles;9; $ 2,70 
+24/01/2016;Boris Stanford;Oeste;Calcetines;Vestimenta;8; $ 18,00 
+24/01/2016;Desmond Delaney;Norte;Bufanda;Vestimenta;7; $ 19,25 
+24/01/2016;Dustin Gee;Este;Sudadera;Vestimenta;15; $ 90,00 
+24/01/2016;Desmond Delaney;Sur;Sandalias;Vestimenta;3; $ 31,50 
+24/01/2016;Trevor Snodgrass;Oeste;Escoba;Hogar;10; $ 36,50 
+24/01/2016;Trevor Snodgrass;Este;Lejía;Hogar;8; $ 24,80 
+24/01/2016;Trevor Snodgrass;Sur;Medias Femeninas;Vestimenta;9; $ 27,00 
+24/01/2016;Sarah Bond;Este;Shorts;Vestimenta;6; $ 29,40 
+25/01/2016;Desmond Delaney;Sur;Shorts;Vestimenta;1; $ 4,90 
+25/01/2016;Dustin Gee;Este;Pepinillo;Comestibles;11; $ 3,30 
+25/01/2016;Desmond Delaney;Norte;Bombilla;Hogar;2; $ 1,20 
+25/01/2016;Trevor Snodgrass;Sur;Escoba;Hogar;6; $ 21,90 
+25/01/2016;Boris Stanford;Oeste;Bufanda;Vestimenta;13; $ 35,75 
+25/01/2016;Trevor Snodgrass;Este;Escoba;Hogar;1; $ 3,65 
+25/01/2016;Steve Ashton;Este;Sudadera;Vestimenta;3; $ 18,00 
+25/01/2016;Dustin Gee;Oeste;Lejía;Hogar;2; $ 6,20 
+25/01/2016;Steve Ashton;Norte;Gorras;Vestimenta;7; $ 14,70 
+25/01/2016;Steve Ashton;Este;Escobillón;Hogar;8; $ 6,80 
+25/01/2016;Dustin Gee;Oeste;Sandalias;Vestimenta;12; $ 126,00 
+25/01/2016;Steve Ashton;Sur;Sudadera;Vestimenta;8; $ 48,00 
+25/01/2016;Steve Ashton;Sur;Sánguche de Queso;Comestibles;13; $ 20,80 
+26/01/2016;Sarah Bond;Sur;Chocolate;Comestibles;13; $ 6,24 
+26/01/2016;Steve Ashton;Oeste;Bufanda;Vestimenta;1; $ 2,75 
+26/01/2016;Desmond Delaney;Norte;Cerveza;Comestibles;11; $ 4,40 
+26/01/2016;Boris Stanford;Norte;Gorras;Vestimenta;7; $ 14,70 
+26/01/2016;Steve Ashton;Norte;Lejía;Hogar;9; $ 27,90 
+26/01/2016;Boris Stanford;Sur;Shorts;Vestimenta;10; $ 49,00 
+26/01/2016;Sarah Bond;Oeste;Trapo Piso;Hogar;12; $ 6,72 
+26/01/2016;Desmond Delaney;Este;Lejía;Hogar;15; $ 46,50 
+26/01/2016;Boris Stanford;Sur;Sudadera;Vestimenta;9; $ 54,00 
+26/01/2016;Sarah Bond;Este;Cerveza;Comestibles;8; $ 3,20 
+26/01/2016;Trevor Snodgrass;Sur;Escoba;Hogar;6; $ 21,90 
+26/01/2016;Boris Stanford;Norte;Bufanda;Vestimenta;5; $ 13,75 
+26/01/2016;Trevor Snodgrass;Oeste;Chocolate;Comestibles;6; $ 2,88 
+26/01/2016;Trevor Snodgrass;Norte;Chocolate;Comestibles;14; $ 6,72 
+27/01/2016;Sarah Bond;Este;Cerveza;Comestibles;5; $ 2,00 
+27/01/2016;Boris Stanford;Este;Shorts;Vestimenta;6; $ 29,40 
+27/01/2016;Trevor Snodgrass;Sur;Escoba;Hogar;8; $ 29,20 
+27/01/2016;Steve Ashton;Este;Pepinillo;Comestibles;4; $ 1,20 
+27/01/2016;Sarah Bond;Sur;Bombilla;Hogar;12; $ 7,20 
+27/01/2016;Desmond Delaney;Este;Bufanda;Vestimenta;9; $ 24,75 
+27/01/2016;Boris Stanford;Este;Escoba;Hogar;2; $ 7,30 
+27/01/2016;Sarah Bond;Este;Limpiavidrios;Hogar;5; $ 4,00 
+27/01/2016;Boris Stanford;Este;Pan;Comestibles;8; $ 3,20 
+27/01/2016;Steve Ashton;Oeste;Escobillón;Hogar;13; $ 11,05 
+27/01/2016;Sarah Bond;Este;Trapo Piso;Hogar;9; $ 5,04 
+27/01/2016;Boris Stanford;Sur;Limpiavidrios;Hogar;2; $ 1,60 
+27/01/2016;Desmond Delaney;Norte;Lejía;Hogar;7; $ 21,70 
+27/01/2016;Boris Stanford;Oeste;Trapo Piso;Hogar;12; $ 6,72 
+27/01/2016;Desmond Delaney;Oeste;Pan;Comestibles;2; $ 0,80 
+27/01/2016;Steve Ashton;Norte;Gorras;Vestimenta;14; $ 29,40 
+27/01/2016;Desmond Delaney;Este;Detergente;Hogar;3; $ 7,44 
+27/01/2016;Trevor Snodgrass;Norte;Gorras;Vestimenta;3; $ 6,30 
+27/01/2016;Desmond Delaney;Oeste;Bufanda;Vestimenta;11; $ 30,25 
+27/01/2016;Dustin Gee;Oeste;Medias Femeninas;Vestimenta;14; $ 42,00 
+27/01/2016;Dustin Gee;Este;Sandalias;Vestimenta;9; $ 94,50 
+27/01/2016;Trevor Snodgrass;Sur;Bufanda;Vestimenta;12; $ 33,00 
+28/01/2016;Dustin Gee;Este;Lejía;Hogar;9; $ 27,90 
+28/01/2016;Dustin Gee;Oeste;Caramelos;Comestibles;11; $ 6,60 
+28/01/2016;Dustin Gee;Oeste;Bufanda;Vestimenta;4; $ 11,00 
+28/01/2016;Trevor Snodgrass;Oeste;Pan;Comestibles;5; $ 2,00 
+28/01/2016;Trevor Snodgrass;Oeste;Cerveza;Comestibles;7; $ 2,80 
+28/01/2016;Trevor Snodgrass;Este;Sudadera;Vestimenta;5; $ 30,00 
+28/01/2016;Boris Stanford;Oeste;Limpiavidrios;Hogar;5; $ 4,00 
+28/01/2016;Dustin Gee;Oeste;Shorts;Vestimenta;1; $ 4,90 
+28/01/2016;Sarah Bond;Este;Sánguche de Queso;Comestibles;7; $ 11,20 
+28/01/2016;Steve Ashton;Sur;Pepinillo;Comestibles;4; $ 1,20 
+28/01/2016;Steve Ashton;Este;Sudadera;Vestimenta;1; $ 6,00 
+28/01/2016;Steve Ashton;Oeste;Sandalias;Vestimenta;9; $ 94,50 
+28/01/2016;Steve Ashton;Oeste;Bufanda;Vestimenta;4; $ 11,00 
+28/01/2016;Trevor Snodgrass;Sur;Gorras;Vestimenta;8; $ 16,80 
+28/01/2016;Boris Stanford;Este;Bufanda;Vestimenta;9; $ 24,75 
+28/01/2016;Sarah Bond;Este;Sánguche de Queso;Comestibles;5; $ 8,00 
+29/01/2016;Sarah Bond;Este;Trapo Piso;Hogar;4; $ 2,24 
+29/01/2016;Sarah Bond;Norte;Caramelos;Comestibles;9; $ 5,40 
+29/01/2016;Trevor Snodgrass;Norte;Sandalias;Vestimenta;11; $ 115,50 
+29/01/2016;Sarah Bond;Este;Gorras;Vestimenta;13; $ 27,30 
+29/01/2016;Boris Stanford;Este;Sánguche de Queso;Comestibles;6; $ 9,60 
+29/01/2016;Steve Ashton;Sur;Detergente;Hogar;9; $ 22,32 
+29/01/2016;Desmond Delaney;Sur;Sandalias;Vestimenta;2; $ 21,00 
+29/01/2016;Steve Ashton;Oeste;Caramelos;Comestibles;4; $ 2,40 
+29/01/2016;Boris Stanford;Este;Escobillón;Hogar;11; $ 9,35 
+29/01/2016;Sarah Bond;Este;Gorras;Vestimenta;7; $ 14,70 
+29/01/2016;Sarah Bond;Oeste;Detergente;Hogar;3; $ 7,44 
+29/01/2016;Steve Ashton;Norte;Sánguche de Queso;Comestibles;15; $ 24,00 
+30/01/2016;Dustin Gee;Oeste;Lejía;Hogar;11; $ 34,10 
+30/01/2016;Steve Ashton;Oeste;Bombilla;Hogar;10; $ 6,00 
+30/01/2016;Dustin Gee;Este;Medias Femeninas;Vestimenta;7; $ 21,00 
+30/01/2016;Dustin Gee;Sur;Lejía;Hogar;12; $ 37,20 
+30/01/2016;Boris Stanford;Norte;Soda;Comestibles;6; $ 3,84 
+30/01/2016;Trevor Snodgrass;Norte;Calcetines;Vestimenta;7; $ 15,75 
+30/01/2016;Dustin Gee;Este;Pepinillo;Comestibles;13; $ 3,90 
+30/01/2016;Trevor Snodgrass;Oeste;Sandalias;Vestimenta;10; $ 105,00 
+30/01/2016;Trevor Snodgrass;Este;Calcetines;Vestimenta;10; $ 22,50 
+30/01/2016;Dustin Gee;Este;Trapo Piso;Hogar;12; $ 6,72 
+30/01/2016;Desmond Delaney;Norte;Caramelos;Comestibles;14; $ 8,40 
+30/01/2016;Trevor Snodgrass;Este;Gorras;Vestimenta;6; $ 12,60 
+30/01/2016;Dustin Gee;Norte;Pan;Comestibles;14; $ 5,60 
+31/01/2016;Trevor Snodgrass;Este;Sandalias;Vestimenta;6; $ 63,00 
+31/01/2016;Sarah Bond;Sur;Calcetines;Vestimenta;7; $ 15,75 
+31/01/2016;Dustin Gee;Oeste;Sánguche de Queso;Comestibles;12; $ 19,20 
+31/01/2016;Desmond Delaney;Sur;Escobillón;Hogar;9; $ 7,65 
+31/01/2016;Trevor Snodgrass;Oeste;Sudadera;Vestimenta;2; $ 12,00 
+31/01/2016;Desmond Delaney;Este;Bombilla;Hogar;8; $ 4,80 
+31/01/2016;Steve Ashton;Oeste;Lejía;Hogar;15; $ 46,50 
+31/01/2016;Boris Stanford;Este;Sudadera;Vestimenta;6; $ 36,00 
+31/01/2016;Boris Stanford;Este;Chocolate;Comestibles;3; $ 1,44 
+31/01/2016;Steve Ashton;Norte;Detergente;Hogar;14; $ 34,72 
+31/01/2016;Dustin Gee;Oeste;Caramelos;Comestibles;6; $ 3,60 
+31/01/2016;Sarah Bond;Norte;Bombilla;Hogar;4; $ 2,40 
+31/01/2016;Dustin Gee;Oeste;Limpiavidrios;Hogar;13; $ 10,40 
+31/01/2016;Sarah Bond;Sur;Bufanda;Vestimenta;6; $ 16,50 
+31/01/2016;Dustin Gee;Este;Sandalias;Vestimenta;11; $ 115,50 
+31/01/2016;Dustin Gee;Este;Sánguche de Queso;Comestibles;4; $ 6,40 
+31/01/2016;Dustin Gee;Norte;Escobillón;Hogar;8; $ 6,80 
+31/01/2016;Trevor Snodgrass;Sur;Pepinillo;Comestibles;7; $ 2,10 
