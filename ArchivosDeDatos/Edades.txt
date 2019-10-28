@@ -1,0 +1,6 @@
+Nombre|Apellidos|edad
+Inocenta|Ortega|53
+Miriam|Tiburcio|13
+Roy|Tiburcio|28
+Eli|Roque|39
+Javier|Tiburcio|26
